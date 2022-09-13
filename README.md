@@ -1,4 +1,4 @@
-# hlsBlobVideoDownload
+# HLS Blob Video Download
 HLS Steaming Video Download / Blob Video Download
 
 sudo apt-get install ffmpeg
